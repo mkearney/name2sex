@@ -4,3 +4,4 @@
 ^LICENSE\.md$
 ^all-data\.R$
 ^tw-data\.R$
+^README\.Rmd$
