@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-name2sex
-========
+⚤ name2sex
+==========
 
 The goal of name2sex is to convert a vector of first names into sex estimates (female percent) based on historical data bases.
 
