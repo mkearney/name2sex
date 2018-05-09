@@ -44,7 +44,11 @@ names2sex.character <- function(nm) {
   ## validate input
   stopifnot(is.character(nm))
   ## filter sex data using input names
-  sexdat$f_pct[match(nm, sexdat$name)]
+  x <- sexdat$f_pct[match(nm, sexdat$name)]
+  ## add names
+  names(x) <- nm
+  ## return estimates
+  x
 }
 
 #' @export

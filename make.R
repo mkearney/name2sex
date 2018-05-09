@@ -14,6 +14,5 @@ usethis::use_package_doc()
 
 usethis::use_data(sexdat)
 usethis::use_data(twsexdat)
+usethis::use_readme_rmd()
 
-
-names2sex(c("casi", "mike", "tracy", "rory", "pat", "alex", "tamar"))
