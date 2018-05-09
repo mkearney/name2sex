@@ -1,0 +1,17 @@
+Package: name2sex
+Version: 0.0.0.9000
+Title: Convert Names to Sex
+Description: Takes first names and looks up the percent male and female using 
+    public data bases.
+Authors@R: c(
+    person("Michael Wayne", "Kearney", , 
+      "kearneymw@missouri.edu", role = c("aut", "cre")
+      comment = c(ORCID = "0000-0002-0730-4694")
+    ),
+    person("Lingshu", "Hu", , 
+      "lhn95@mail.missouri.edu", role = "aut")
+    )
+License: MIT
+Encoding: UTF-8
+LazyData: true
+ByteCompile: true
