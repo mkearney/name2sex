@@ -16,7 +16,4 @@ Encoding: UTF-8
 LazyData: true
 ByteCompile: true
 Imports: 
-    genderdata,
-    dplyr,
-    tibble
 RoxygenNote: 6.0.1.9000
