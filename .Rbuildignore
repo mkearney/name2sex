@@ -1,0 +1,6 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^make\.R$
+^LICENSE\.md$
+^all-data\.R$
+^tw-data\.R$
