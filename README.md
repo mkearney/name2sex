@@ -5,6 +5,11 @@
 
 The goal of name2sex is to convert a vector of first names into sex estimates (female percent) based on historical data bases.
 
+NOTE
+----
+
+If you're reading this, I'd encourage you to check out <https://github.com/ropensci/gender> instead. In making this package, we made some decisions that are probably not completely obvious. So it'd be more transparent \[and probably all-around better\] to use the <https://github.com/ropensci/genderdata> and <https://github.com/ropensci/gender> packages directly!
+
 Installation
 ------------
 
