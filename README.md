@@ -1,27 +1,33 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-⚤ name2sex
-==========
 
-The goal of name2sex is to convert a vector of first names into sex estimates (female percent) based on historical data bases.
+# ⚤ name2sex <img src="man/figures/logo.png" width="160px" align="right" />
 
-NOTE
-----
+[![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 
-If you're reading this, I'd encourage you to check out <https://github.com/ropensci/gender> instead. In making this package, we made some decisions that are probably not completely obvious. So it'd be more transparent \[and probably all-around better\] to use the <https://github.com/ropensci/genderdata> and <https://github.com/ropensci/gender> packages directly!
+The goal of name2sex is to convert a vector of first names into sex
+estimates (female percent) based on historical data bases.
 
-Installation
-------------
+## NOTE
 
-You can install the development version from [GitHub](https://github.com/) with:
+If you’re reading this, I’d encourage you to check out
+<https://github.com/ropensci/gender> instead. In making this package, we
+made some decisions that are probably not completely obvious. So it’d be
+more transparent \[and probably all-around better\] to use the
+<https://github.com/ropensci/genderdata> and
+<https://github.com/ropensci/gender> packages directly\!
+
+## Installation
+
+You can install the development version from
+[GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
 devtools::install_github("mkearney/name2sex")
 ```
 
-Example
--------
+## Example
 
 This is a basic example:
 

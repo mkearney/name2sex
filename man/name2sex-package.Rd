@@ -6,8 +6,8 @@
 \alias{name2sex-package}
 \title{name2sex: Convert Names to Sex}
 \description{
-Takes first names and looks up the percent male and female using
-public data bases.
+Takes first names and looks up the percent male and female using 
+    public data bases.
 }
 \author{
 \strong{Maintainer}: Michael Wayne Kearney \email{kearneymw@missouri.edu} (0000-0002-0730-4694)
